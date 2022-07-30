@@ -2,7 +2,7 @@
 
 <img src="./print-social-tree.img" alt="layout-link-tree">
 
-> Projeto feiro com HTML e CSS que replica o link tree utilizado no Instagram. Layaout com base no Figma.
+> Projeto feito com HTML e CSS que replica o link tree utilizado no Instagram. Layaout com base no Figma.
 
 
 ## 🤝 Colaborador:
